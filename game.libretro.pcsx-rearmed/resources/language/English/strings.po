@@ -21,78 +21,82 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Frame duping"
+msgid "Enable Dithering"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Frameskip"
+msgid "Frame duping"
 msgstr ""
 
 msgctxt "#30003"
-msgid "InuYasha Sengoku Battle Fix"
+msgid "Frameskip"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Multitap 1"
+msgid "InuYasha Sengoku Battle Fix"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Multitap 2"
+msgid "Multitap 1"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Pad 1 Type"
+msgid "Multitap 2"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Pad 2 Type"
+msgid "Pad 1 Type"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Pad 3 Type"
+msgid "Pad 2 Type"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Pad 4 Type"
+msgid "Pad 3 Type"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Pad 5 Type"
+msgid "Pad 4 Type"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Pad 6 Type"
+msgid "Pad 5 Type"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Pad 7 Type"
+msgid "Pad 6 Type"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Pad 8 Type"
+msgid "Pad 7 Type"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Parasite Eve 2/Vandal Hearts 1/2 Fix"
+msgid "Pad 8 Type"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Region"
+msgid "Parasite Eve 2/Vandal Hearts 1/2 Fix"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Show Bios Bootlogo(Breaks some games)"
+msgid "Region"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Sound: Interpolation"
+msgid "Show Bios Bootlogo(Breaks some games)"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Sound: Reverb"
+msgid "Sound: Interpolation"
 msgstr ""
 
 msgctxt "#30019"
+msgid "Sound: Reverb"
+msgstr ""
+
+msgctxt "#30020"
 msgid "Enable Vibration"
 msgstr ""
 
