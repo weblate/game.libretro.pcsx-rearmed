@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<buttonmap>
+<buttonmap version="2">
 	<controller id="game.controller.ps.gamepad" type="RETRO_DEVICE_JOYPAD">
 		<feature name="cross" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
 		<feature name="circle" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
