@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <logicaltopology>
 	<port type="controller" id="1">
-		<accepts controller="game.controller.ps.gamepad"/>
 		<accepts controller="game.controller.ps.dualshock"/>
 		<accepts controller="game.controller.ps.dualanalog"/>
+		<accepts controller="game.controller.ps.gamepad"/>
 		<!--
 		<accepts controller="game.controller.ps.guncon.western"/>
 		<accepts controller="game.controller.ps.guncon.japan"/>
@@ -12,9 +12,9 @@
 		-->
 		<accepts controller="game.controller.ps.multitap">
 			<port type="controller" id="1">
-				<accepts controller="game.controller.ps.gamepad"/>
 				<accepts controller="game.controller.ps.dualshock"/>
 				<accepts controller="game.controller.ps.dualanalog"/>
+				<accepts controller="game.controller.ps.gamepad"/>
 				<!--
 				<accepts controller="game.controller.ps.guncon.western"/>
 				<accepts controller="game.controller.ps.guncon.japan"/>
@@ -23,9 +23,9 @@
 				-->
 			</port>
 			<port type="controller" id="2">
-				<accepts controller="game.controller.ps.gamepad"/>
 				<accepts controller="game.controller.ps.dualshock"/>
 				<accepts controller="game.controller.ps.dualanalog"/>
+				<accepts controller="game.controller.ps.gamepad"/>
 				<!--
 				<accepts controller="game.controller.ps.guncon.western"/>
 				<accepts controller="game.controller.ps.guncon.japan"/>
@@ -34,9 +34,9 @@
 				-->
 			</port>
 			<port type="controller" id="3">
-				<accepts controller="game.controller.ps.gamepad"/>
 				<accepts controller="game.controller.ps.dualshock"/>
 				<accepts controller="game.controller.ps.dualanalog"/>
+				<accepts controller="game.controller.ps.gamepad"/>
 				<!--
 				<accepts controller="game.controller.ps.guncon.western"/>
 				<accepts controller="game.controller.ps.guncon.japan"/>
@@ -45,9 +45,9 @@
 				-->
 			</port>
 			<port type="controller" id="4">
-				<accepts controller="game.controller.ps.gamepad"/>
 				<accepts controller="game.controller.ps.dualshock"/>
 				<accepts controller="game.controller.ps.dualanalog"/>
+				<accepts controller="game.controller.ps.gamepad"/>
 				<!--
 				<accepts controller="game.controller.ps.guncon.western"/>
 				<accepts controller="game.controller.ps.guncon.japan"/>
@@ -58,9 +58,9 @@
 		</accepts>
 	</port>
 	<port type="controller" id="2">
-		<accepts controller="game.controller.ps.gamepad"/>
 		<accepts controller="game.controller.ps.dualshock"/>
 		<accepts controller="game.controller.ps.dualanalog"/>
+		<accepts controller="game.controller.ps.gamepad"/>
 		<!--
 		<accepts controller="game.controller.ps.guncon.western"/>
 		<accepts controller="game.controller.ps.guncon.japan"/>
@@ -69,9 +69,9 @@
 		-->
 		<accepts controller="game.controller.ps.multitap">
 			<port type="controller" id="1">
-				<accepts controller="game.controller.ps.gamepad"/>
 				<accepts controller="game.controller.ps.dualshock"/>
 				<accepts controller="game.controller.ps.dualanalog"/>
+				<accepts controller="game.controller.ps.gamepad"/>
 				<!--
 				<accepts controller="game.controller.ps.guncon.western"/>
 				<accepts controller="game.controller.ps.guncon.japan"/>
@@ -80,9 +80,9 @@
 				-->
 			</port>
 			<port type="controller" id="2">
-				<accepts controller="game.controller.ps.gamepad"/>
 				<accepts controller="game.controller.ps.dualshock"/>
 				<accepts controller="game.controller.ps.dualanalog"/>
+				<accepts controller="game.controller.ps.gamepad"/>
 				<!--
 				<accepts controller="game.controller.ps.guncon.western"/>
 				<accepts controller="game.controller.ps.guncon.japan"/>
@@ -91,9 +91,9 @@
 				-->
 			</port>
 			<port type="controller" id="3">
-				<accepts controller="game.controller.ps.gamepad"/>
 				<accepts controller="game.controller.ps.dualshock"/>
 				<accepts controller="game.controller.ps.dualanalog"/>
+				<accepts controller="game.controller.ps.gamepad"/>
 				<!--
 				<accepts controller="game.controller.ps.guncon.western"/>
 				<accepts controller="game.controller.ps.guncon.japan"/>
@@ -102,9 +102,9 @@
 				-->
 			</port>
 			<port type="controller" id="4">
-				<accepts controller="game.controller.ps.gamepad"/>
 				<accepts controller="game.controller.ps.dualshock"/>
 				<accepts controller="game.controller.ps.dualanalog"/>
+				<accepts controller="game.controller.ps.gamepad"/>
 				<!--
 				<accepts controller="game.controller.ps.guncon.western"/>
 				<accepts controller="game.controller.ps.guncon.japan"/>
