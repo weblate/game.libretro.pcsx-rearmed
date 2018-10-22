@@ -24,6 +24,7 @@
 Supported files: .bin, .cue, .img, .mdf, .pbp, .toc, .cbn, .m3u</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.pcsx-rearmed</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
