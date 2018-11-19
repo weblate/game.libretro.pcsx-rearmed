@@ -4,7 +4,7 @@ project(game.libretro.pcsx-rearmed)
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 
 find_package(Kodi REQUIRED)
-find_package(libretro-pcsx-rearmed REQUIRED)
+find_library(PCSX-REARMED_LIB NAMES pcsx_rearmed_libretro${CMAKE_SHARED_LIBRARY_SUFFIX} PATH_SUFFIXES libretro)
 
 set(PCSX-REARMED_CUSTOM_BINARY ${PCSX-REARMED_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
