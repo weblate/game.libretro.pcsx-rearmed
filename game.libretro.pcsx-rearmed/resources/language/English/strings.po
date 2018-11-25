@@ -111,4 +111,3 @@ msgstr ""
 msgctxt "#30023"
 msgid "Enable Vibration"
 msgstr ""
-
