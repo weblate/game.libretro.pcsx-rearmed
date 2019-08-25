@@ -6,15 +6,15 @@
 		<setting label="30003" type="select" id="pcsx_rearmed_dithering" values="enabled|disabled" default="enabled"/>
 		<setting label="30004" type="select" id="pcsx_rearmed_duping_enable" values="enabled|disabled" default="enabled"/>
 		<setting label="30005" type="select" id="pcsx_rearmed_frameskip" values="0|1|2|3" default="0"/>
-		<setting label="30006" type="select" id="pcsx_rearmed_gpu_peops_fix_0" values="disabled|enabled" default="disabled"/>
-		<setting label="30007" type="select" id="pcsx_rearmed_gpu_peops_fix_1" values="disabled|enabled" default="disabled"/>
-		<setting label="30008" type="select" id="pcsx_rearmed_gpu_peops_fix_10" values="disabled|enabled" default="disabled"/>
-		<setting label="30009" type="select" id="pcsx_rearmed_gpu_peops_fix_2" values="disabled|enabled" default="disabled"/>
-		<setting label="30010" type="select" id="pcsx_rearmed_gpu_peops_fix_3" values="disabled|enabled" default="disabled"/>
-		<setting label="30011" type="select" id="pcsx_rearmed_gpu_peops_fix_6" values="disabled|enabled" default="disabled"/>
-		<setting label="30012" type="select" id="pcsx_rearmed_gpu_peops_fix_7" values="enabled|disabled" default="enabled"/>
-		<setting label="30013" type="select" id="pcsx_rearmed_gpu_peops_fix_8" values="disabled|enabled" default="disabled"/>
-		<setting label="30014" type="select" id="pcsx_rearmed_gpu_peops_fix_9" values="disabled|enabled" default="disabled"/>
+		<setting label="30006" type="select" id="pcsx_rearmed_gpu_peops_disable_coord_check" values="disabled|enabled" default="disabled"/>
+		<setting label="30007" type="select" id="pcsx_rearmed_gpu_peops_expand_screen_width" values="disabled|enabled" default="disabled"/>
+		<setting label="30008" type="select" id="pcsx_rearmed_gpu_peops_fake_busy_state" values="disabled|enabled" default="disabled"/>
+		<setting label="30009" type="select" id="pcsx_rearmed_gpu_peops_ignore_brightness" values="disabled|enabled" default="disabled"/>
+		<setting label="30010" type="select" id="pcsx_rearmed_gpu_peops_lazy_screen_update" values="disabled|enabled" default="disabled"/>
+		<setting label="30011" type="select" id="pcsx_rearmed_gpu_peops_odd_even_bit" values="disabled|enabled" default="disabled"/>
+		<setting label="30012" type="select" id="pcsx_rearmed_gpu_peops_old_frame_skip" values="enabled|disabled" default="enabled"/>
+		<setting label="30013" type="select" id="pcsx_rearmed_gpu_peops_quads_with_triangles" values="disabled|enabled" default="disabled"/>
+		<setting label="30014" type="select" id="pcsx_rearmed_gpu_peops_repeated_triangles" values="disabled|enabled" default="disabled"/>
 		<setting label="30015" type="select" id="pcsx_rearmed_idiablofix" values="disabled|enabled" default="disabled"/>
 		<setting label="30016" type="select" id="pcsx_rearmed_inuyasha_fix" values="disabled|enabled" default="disabled"/>
 		<setting label="30017" type="select" id="pcsx_rearmed_memcard2" values="disabled|enabled" default="disabled"/>

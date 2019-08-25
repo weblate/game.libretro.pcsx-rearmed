@@ -41,7 +41,7 @@ msgid "Frameskip"
 msgstr ""
 
 msgctxt "#30006"
-msgid "(GPU) Odd/Even Bit Hack"
+msgid "(GPU) Disable Coordinate Check"
 msgstr ""
 
 msgctxt "#30007"
@@ -57,11 +57,11 @@ msgid "(GPU) Ignore Brightness Color"
 msgstr ""
 
 msgctxt "#30010"
-msgid "(GPU) Disable Coordinate Check"
+msgid "(GPU) Lazy Screen Update"
 msgstr ""
 
 msgctxt "#30011"
-msgid "(GPU) Lazy Screen Update"
+msgid "(GPU) Odd/Even Bit Hack"
 msgstr ""
 
 msgctxt "#30012"
@@ -69,11 +69,11 @@ msgid "(GPU) Old Frame Skipping"
 msgstr ""
 
 msgctxt "#30013"
-msgid "(GPU) Repeated Flat Tex Triangles"
+msgid "(GPU) Draw Quads with Triangles"
 msgstr ""
 
 msgctxt "#30014"
-msgid "(GPU) Draw Quads with Triangles"
+msgid "(GPU) Repeated Flat Tex Triangles"
 msgstr ""
 
 msgctxt "#30015"
