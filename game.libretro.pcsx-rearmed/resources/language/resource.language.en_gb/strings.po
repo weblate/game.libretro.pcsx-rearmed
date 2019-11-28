@@ -77,93 +77,109 @@ msgid "(GPU) Repeated Flat Tex Triangles"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Diablo Music Fix"
+msgid "Guncon Adjust Ratio X"
 msgstr ""
 
 msgctxt "#30016"
-msgid "InuYasha Sengoku Battle Fix"
+msgid "Guncon Adjust Ratio Y"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Enable Second Memory Card (Shared)"
+msgid "Guncon Adjust X"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Multitap 1"
+msgid "Guncon Adjust Y"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Multitap 2"
+msgid "Diablo Music Fix"
 msgstr ""
 
 msgctxt "#30020"
-msgid "NegCon Twist Deadzone (Percent)"
+msgid "InuYasha Sengoku Battle Fix"
 msgstr ""
 
 msgctxt "#30021"
-msgid "NegCon Twist Response"
+msgid "Enable Second Memory Card (Shared)"
 msgstr ""
 
 msgctxt "#30022"
-msgid "CD Audio"
+msgid "Multitap 1"
 msgstr ""
 
 msgctxt "#30023"
-msgid "XA Decoding"
+msgid "Multitap 2"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Pad 1 Type"
+msgid "NegCon Twist Deadzone (Percent)"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Pad 2 Type"
+msgid "NegCon Twist Response"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Pad 3 Type"
+msgid "CD Audio"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Pad 4 Type"
+msgid "XA Decoding"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Pad 5 Type"
+msgid "Pad 1 Type"
 msgstr ""
 
 msgctxt "#30029"
-msgid "Pad 6 Type"
+msgid "Pad 2 Type"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Pad 7 Type"
+msgid "Pad 3 Type"
 msgstr ""
 
 msgctxt "#30031"
-msgid "Pad 8 Type"
+msgid "Pad 4 Type"
 msgstr ""
 
 msgctxt "#30032"
-msgid "Parasite Eve 2/Vandal Hearts 1/2 Fix"
+msgid "Pad 5 Type"
 msgstr ""
 
 msgctxt "#30033"
-msgid "Region"
+msgid "Pad 6 Type"
 msgstr ""
 
 msgctxt "#30034"
-msgid "Show Bios Bootlogo"
+msgid "Pad 7 Type"
 msgstr ""
 
 msgctxt "#30035"
-msgid "Sound Interpolation"
+msgid "Pad 8 Type"
 msgstr ""
 
 msgctxt "#30036"
-msgid "Sound Reverb"
+msgid "Parasite Eve 2/Vandal Hearts 1/2 Fix"
 msgstr ""
 
 msgctxt "#30037"
+msgid "Region"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Show Bios Bootlogo"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Sound Interpolation"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Sound Reverb"
+msgstr ""
+
+msgctxt "#30041"
 msgid "Enable Vibration"
 msgstr ""
