@@ -181,5 +181,9 @@ msgid "Sound Reverb"
 msgstr ""
 
 msgctxt "#30041"
+msgid "SPU IRQ Always Enabled"
+msgstr ""
+
+msgctxt "#30042"
 msgid "Enable Vibration"
 msgstr ""
