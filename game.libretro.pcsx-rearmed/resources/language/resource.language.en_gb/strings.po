@@ -21,169 +21,197 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Use BIOS"
+msgid "Analog axis bounds."
 msgstr ""
 
 msgctxt "#30002"
-msgid "Display Internal FPS"
+msgid "CD Access Method (Restart)"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Enable Dithering"
+msgid "Use BIOS"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Frame Duping"
+msgid "Display Internal FPS"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Frameskip"
+msgid "Enable Dithering"
 msgstr ""
 
 msgctxt "#30006"
-msgid "(GPU) Disable Coordinate Check"
+msgid "Dynamic Recompiler"
 msgstr ""
 
 msgctxt "#30007"
-msgid "(GPU) Expand Screen Width"
+msgid "Frame Duping"
 msgstr ""
 
 msgctxt "#30008"
-msgid "(GPU) Fake 'Gpu Busy' States"
+msgid "Frameskip"
 msgstr ""
 
 msgctxt "#30009"
-msgid "(GPU) Ignore Brightness Color"
+msgid "(GPU) Disable Coordinate Check"
 msgstr ""
 
 msgctxt "#30010"
-msgid "(GPU) Lazy Screen Update"
+msgid "(GPU) Expand Screen Width"
 msgstr ""
 
 msgctxt "#30011"
-msgid "(GPU) Odd/Even Bit Hack"
+msgid "(GPU) Fake 'Gpu Busy' States"
 msgstr ""
 
 msgctxt "#30012"
-msgid "(GPU) Old Frame Skipping"
+msgid "(GPU) Ignore Brightness Color"
 msgstr ""
 
 msgctxt "#30013"
-msgid "(GPU) Draw Quads with Triangles"
+msgid "(GPU) Lazy Screen Update"
 msgstr ""
 
 msgctxt "#30014"
-msgid "(GPU) Repeated Flat Tex Triangles"
+msgid "(GPU) Odd/Even Bit Hack"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Guncon Adjust Ratio X"
+msgid "(GPU) Old Frame Skipping"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Guncon Adjust Ratio Y"
+msgid "(GPU) Draw Quads with Triangles"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Guncon Adjust X"
+msgid "(GPU) Repeated Flat Tex Triangles"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Guncon Adjust Y"
+msgid "(Speed Hack) Assume GTE Regs Unneeded"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Diablo Music Fix"
+msgid "Guncon Adjust Ratio X"
 msgstr ""
 
 msgctxt "#30020"
-msgid "InuYasha Sengoku Battle Fix"
+msgid "Guncon Adjust Ratio Y"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Enable Second Memory Card (Shared)"
+msgid "Guncon Adjust X"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Multitap 1"
+msgid "Guncon Adjust Y"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Multitap 2"
+msgid "Diablo Music Fix"
 msgstr ""
 
 msgctxt "#30024"
-msgid "NegCon Twist Deadzone (Percent)"
+msgid "InuYasha Sengoku Battle Fix"
 msgstr ""
 
 msgctxt "#30025"
-msgid "NegCon Twist Response"
+msgid "Enable Second Memory Card (Shared)"
 msgstr ""
 
 msgctxt "#30026"
-msgid "CD Audio"
+msgid "Multitap 1"
 msgstr ""
 
 msgctxt "#30027"
-msgid "XA Decoding"
+msgid "Multitap 2"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Pad 1 Type"
+msgid "NegCon Twist Deadzone (Percent)"
 msgstr ""
 
 msgctxt "#30029"
-msgid "Pad 2 Type"
+msgid "NegCon Twist Response"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Pad 3 Type"
+msgid "CD Audio"
 msgstr ""
 
 msgctxt "#30031"
-msgid "Pad 4 Type"
+msgid "(Speed Hack) Disable GTE Flags"
 msgstr ""
 
 msgctxt "#30032"
-msgid "Pad 5 Type"
+msgid "(Speed Hack) Disable SMC Checks"
 msgstr ""
 
 msgctxt "#30033"
-msgid "Pad 6 Type"
+msgid "XA Decoding"
 msgstr ""
 
 msgctxt "#30034"
-msgid "Pad 7 Type"
+msgid "Pad 1 Type"
 msgstr ""
 
 msgctxt "#30035"
-msgid "Pad 8 Type"
+msgid "Pad 2 Type"
 msgstr ""
 
 msgctxt "#30036"
-msgid "Parasite Eve 2/Vandal Hearts 1/2 Fix"
+msgid "Pad 3 Type"
 msgstr ""
 
 msgctxt "#30037"
-msgid "Region"
+msgid "Pad 4 Type"
 msgstr ""
 
 msgctxt "#30038"
-msgid "Show Bios Bootlogo"
+msgid "Pad 5 Type"
 msgstr ""
 
 msgctxt "#30039"
-msgid "Sound Interpolation"
+msgid "Pad 6 Type"
 msgstr ""
 
 msgctxt "#30040"
-msgid "Sound Reverb"
+msgid "Pad 7 Type"
 msgstr ""
 
 msgctxt "#30041"
-msgid "SPU IRQ Always Enabled"
+msgid "Pad 8 Type"
 msgstr ""
 
 msgctxt "#30042"
+msgid "Parasite Eve 2/Vandal Hearts 1/2 Fix"
+msgstr ""
+
+msgctxt "#30043"
+msgid "PSX CPU Clock"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Region"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Show Bios Bootlogo"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Sound Interpolation"
+msgstr ""
+
+msgctxt "#30047"
+msgid "Sound Reverb"
+msgstr ""
+
+msgctxt "#30048"
+msgid "SPU IRQ Always Enabled"
+msgstr ""
+
+msgctxt "#30049"
 msgid "Enable Vibration"
 msgstr ""
