@@ -89,27 +89,27 @@ msgid "(GPU) Repeated Flat Tex Triangles"
 msgstr ""
 
 msgctxt "#30018"
-msgid "(Speed Hack) Assume GTE Regs Unneeded"
-msgstr ""
-
-msgctxt "#30019"
 msgid "Guncon Adjust Ratio X"
 msgstr ""
 
-msgctxt "#30020"
+msgctxt "#30019"
 msgid "Guncon Adjust Ratio Y"
 msgstr ""
 
-msgctxt "#30021"
+msgctxt "#30020"
 msgid "Guncon Adjust X"
 msgstr ""
 
-msgctxt "#30022"
+msgctxt "#30021"
 msgid "Guncon Adjust Y"
 msgstr ""
 
-msgctxt "#30023"
+msgctxt "#30022"
 msgid "Diablo Music Fix"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Emulated Mouse Sensitivity"
 msgstr ""
 
 msgctxt "#30024"
@@ -141,77 +141,69 @@ msgid "CD Audio"
 msgstr ""
 
 msgctxt "#30031"
-msgid "(Speed Hack) Disable GTE Flags"
-msgstr ""
-
-msgctxt "#30032"
-msgid "(Speed Hack) Disable SMC Checks"
-msgstr ""
-
-msgctxt "#30033"
 msgid "XA Decoding"
 msgstr ""
 
-msgctxt "#30034"
+msgctxt "#30032"
 msgid "Pad 1 Type"
 msgstr ""
 
-msgctxt "#30035"
+msgctxt "#30033"
 msgid "Pad 2 Type"
 msgstr ""
 
-msgctxt "#30036"
+msgctxt "#30034"
 msgid "Pad 3 Type"
 msgstr ""
 
-msgctxt "#30037"
+msgctxt "#30035"
 msgid "Pad 4 Type"
 msgstr ""
 
-msgctxt "#30038"
+msgctxt "#30036"
 msgid "Pad 5 Type"
 msgstr ""
 
-msgctxt "#30039"
+msgctxt "#30037"
 msgid "Pad 6 Type"
 msgstr ""
 
-msgctxt "#30040"
+msgctxt "#30038"
 msgid "Pad 7 Type"
 msgstr ""
 
-msgctxt "#30041"
+msgctxt "#30039"
 msgid "Pad 8 Type"
 msgstr ""
 
-msgctxt "#30042"
+msgctxt "#30040"
 msgid "Parasite Eve 2/Vandal Hearts 1/2 Fix"
 msgstr ""
 
-msgctxt "#30043"
-msgid "PSX CPU Clock"
-msgstr ""
-
-msgctxt "#30044"
+msgctxt "#30041"
 msgid "Region"
 msgstr ""
 
-msgctxt "#30045"
+msgctxt "#30042"
 msgid "Show Bios Bootlogo"
 msgstr ""
 
-msgctxt "#30046"
+msgctxt "#30043"
+msgid "Show other input settings"
+msgstr ""
+
+msgctxt "#30044"
 msgid "Sound Interpolation"
 msgstr ""
 
-msgctxt "#30047"
+msgctxt "#30045"
 msgid "Sound Reverb"
 msgstr ""
 
-msgctxt "#30048"
+msgctxt "#30046"
 msgid "SPU IRQ Always Enabled"
 msgstr ""
 
-msgctxt "#30049"
+msgctxt "#30047"
 msgid "Enable Vibration"
 msgstr ""
