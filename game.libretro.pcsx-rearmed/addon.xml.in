@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.pcsx-rearmed"
 		name="Sony - PlayStation (PCSX ReARMed)"
-		version="22.0.0.9"
-		provider-name="Libretro">
+		version="22.0.0.10"
+		provider-name="PCSX Team, notaz, Exophase">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.ps.gamepad" version="1.0.0"/>
