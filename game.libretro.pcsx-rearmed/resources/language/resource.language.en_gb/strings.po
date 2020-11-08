@@ -125,11 +125,11 @@ msgid "Enable Second Memory Card (Shared)"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Multitap 1"
+msgid "Multitap 1 (Restart)"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Multitap 2"
+msgid "Multitap 2 (Restart)"
 msgstr ""
 
 msgctxt "#30029"
@@ -149,65 +149,33 @@ msgid "XA Decoding"
 msgstr ""
 
 msgctxt "#30033"
-msgid "Pad 1 Type"
-msgstr ""
-
-msgctxt "#30034"
-msgid "Pad 2 Type"
-msgstr ""
-
-msgctxt "#30035"
-msgid "Pad 3 Type"
-msgstr ""
-
-msgctxt "#30036"
-msgid "Pad 4 Type"
-msgstr ""
-
-msgctxt "#30037"
-msgid "Pad 5 Type"
-msgstr ""
-
-msgctxt "#30038"
-msgid "Pad 6 Type"
-msgstr ""
-
-msgctxt "#30039"
-msgid "Pad 7 Type"
-msgstr ""
-
-msgctxt "#30040"
-msgid "Pad 8 Type"
-msgstr ""
-
-msgctxt "#30041"
 msgid "Parasite Eve 2/Vandal Hearts 1/2 Fix"
 msgstr ""
 
-msgctxt "#30042"
+msgctxt "#30034"
 msgid "Region"
 msgstr ""
 
-msgctxt "#30043"
+msgctxt "#30035"
 msgid "Show Bios Bootlogo"
 msgstr ""
 
-msgctxt "#30044"
+msgctxt "#30036"
 msgid "Show other input settings"
 msgstr ""
 
-msgctxt "#30045"
+msgctxt "#30037"
 msgid "Sound Interpolation"
 msgstr ""
 
-msgctxt "#30046"
+msgctxt "#30038"
 msgid "Sound Reverb"
 msgstr ""
 
-msgctxt "#30047"
+msgctxt "#30039"
 msgid "SPU IRQ Always Enabled"
 msgstr ""
 
-msgctxt "#30048"
+msgctxt "#30040"
 msgid "Enable Vibration"
 msgstr ""
