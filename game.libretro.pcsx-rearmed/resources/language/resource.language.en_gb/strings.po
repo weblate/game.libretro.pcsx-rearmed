@@ -125,57 +125,53 @@ msgid "Enable Second Memory Card (Shared)"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Multitap 1 (Restart)"
+msgid "Multitap Mode (Restart)"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Multitap 2 (Restart)"
-msgstr ""
-
-msgctxt "#30029"
 msgid "NegCon Twist Deadzone (Percent)"
 msgstr ""
 
-msgctxt "#30030"
+msgctxt "#30029"
 msgid "NegCon Twist Response"
 msgstr ""
 
-msgctxt "#30031"
+msgctxt "#30030"
 msgid "CD Audio"
 msgstr ""
 
-msgctxt "#30032"
+msgctxt "#30031"
 msgid "XA Decoding"
 msgstr ""
 
-msgctxt "#30033"
+msgctxt "#30032"
 msgid "Parasite Eve 2/Vandal Hearts 1/2 Fix"
 msgstr ""
 
-msgctxt "#30034"
+msgctxt "#30033"
 msgid "Region"
 msgstr ""
 
-msgctxt "#30035"
+msgctxt "#30034"
 msgid "Show Bios Bootlogo"
 msgstr ""
 
-msgctxt "#30036"
+msgctxt "#30035"
 msgid "Show other input settings"
 msgstr ""
 
-msgctxt "#30037"
+msgctxt "#30036"
 msgid "Sound Interpolation"
 msgstr ""
 
-msgctxt "#30038"
+msgctxt "#30037"
 msgid "Sound Reverb"
 msgstr ""
 
-msgctxt "#30039"
+msgctxt "#30038"
 msgid "SPU IRQ Always Enabled"
 msgstr ""
 
-msgctxt "#30040"
+msgctxt "#30039"
 msgid "Enable Vibration"
 msgstr ""
